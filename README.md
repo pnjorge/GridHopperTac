@@ -14,8 +14,7 @@ Wearable geo satellite roving companion for portable operators
 - Configurable geo satellite orbital position
 - Geostationary satellite pointing data (Azimuth / Elevation / Skew)
 - Geostationary satellite pointing compass (Cyan dot)
-- Compass North red arrow marker
-- Compass South reference marker
+- Compass North (red arrow) and South (reference) markers
 - Rover Mode (always-on display)
 - Compass enable/disable (battery saving)
 - Display colour variants (Contrast, CRT, Night, Avionics)
