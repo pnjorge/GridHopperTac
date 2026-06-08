@@ -1,8 +1,4 @@
 
-
-
-
-
 ## GridHopperTac v0.3 Beta
 
 Wearable geo satellite roving companion for portable operators
@@ -44,6 +40,15 @@ Click each option to cycle/increment value. For Longitude a long press will jump
 
 73
 F5VMJ
+
+
+## Demo Video
+
+[![GridHopperTac Demo](watch_screenshot.png)](https://youtu.be/9xifKO7HxIM)
+
+Click the image above to watch the demo video.
+
+
 
 
 ## Demo Video
