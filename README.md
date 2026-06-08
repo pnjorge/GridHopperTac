@@ -3,6 +3,8 @@
 
 
 
+
+
 ## GridHopperTac v0.3 Beta
 
 Wearable geo satellite roving companion for portable operators
