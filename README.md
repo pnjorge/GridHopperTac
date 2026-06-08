@@ -4,6 +4,16 @@
 Wearable geo satellite roving companion for portable operators
 
 
+<h2>Screenshots</h2>
+
+<p align="center">
+  <img src="colors_matrix.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="watch_face.jpg" width="300">
+</p>
+
 ## Features
 
 - Live Maidenhead locator display (6-character)
