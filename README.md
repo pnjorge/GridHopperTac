@@ -1,8 +1,6 @@
 
 
 
-https://youtu.be/9xifKO7HxIM
-
 
 
 ## GridHopperTac v0.3 Beta
@@ -48,3 +46,8 @@ Click each option to cycle/increment value. For Longitude a long press will jump
 F5VMJ
 
 
+## Demo Video
+
+[![GridHopperTac Demo](screenshots/watch_screenshot.png)](https://youtu.be/9xifKO7HxIM)
+
+Click the image above to watch the demo video.
