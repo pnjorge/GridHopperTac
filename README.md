@@ -37,7 +37,7 @@ Currently running on a Samsung Galaxy Watch 4 Classic w/display 46mm, 450x450. O
 Install by sideloading the APK to a Wear OS watch using Android Studio, ADB, or other compatible APK installation tools.
 
 Quick Start: Click top of screen [GridHopperTac] to enter Options page. Scroll down and click [BACK] to return.
-Click each option to cycle/increment value. For Longitude a long press will jump by 10 degrees.
+Click each option to cycle/increment value. For orbital position, a long press will jump by 10 degrees to save time.
 
 73
 F5VMJ
