@@ -7,12 +7,10 @@ Wearable geo satellite roving companion for portable operators
 <h2>Screenshots</h2>
 
 <p align="center">
-  <img src="colors_matrix.jpg" width="500">
+  <img src="colors_matrix.jpg" width="800">
 </p>
 
-<p align="center">
-  <img src="watch_face.jpg" width="300">
-</p>
+
 
 ## Features
 
