@@ -7,7 +7,7 @@ Wearable geo satellite roving companion for portable operators
 ## Features
 
 - Live Maidenhead locator display (6-character)
-- Grid crossing (BORDER-X) alerts
+- Grid crossing (Border-X) alerts
 - Audible/Vibration alerts (Selectable sounds)
 - Alert repetitions
 - Maidenhead border prediction (distance and direction)
@@ -17,7 +17,7 @@ Wearable geo satellite roving companion for portable operators
 - Compass North (red arrow) and South (reference) markers
 - Rover Mode (always-on display)
 - Compass enable/disable (battery saving)
-- Display colour variants (Contrast, CRT, Night, Avionics)
+- Display colour variants (Contrast, CRT, Night, Avionic)
 - Field-friendly display optimised for portable operation
 - UTC and Local time display
 - Real-time GPS positioning
@@ -29,8 +29,10 @@ Wearable geo satellite roving companion for portable operators
 - Preliminary release for field testing by amateur radio operators
 
 
+## Notes
 GridHopperTac is a lightweight standalone version of GridHopper.net, but for Wear OS devices.
-It provides the most essential features of the original web app in a very lightweight package. 
+It provides the most essential features of the original GridHopper.net web app in a very lightweight package. 
+
 Currently running on a Samsung Galaxy Watch 4 Classic w/display 46mm, 450x450. Other versions will work depending on size.
 Install by sideloading the APK to a Wear OS watch using Android Studio, ADB, or other compatible APK installation tools.
 
