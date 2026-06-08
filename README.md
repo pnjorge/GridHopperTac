@@ -13,8 +13,8 @@ Wearable geo satellite roving companion for portable operators
 - Maidenhead border prediction (distance and direction)
 - Configurable geo satellite orbital position
 - Geostationary satellite pointing data (Azimuth / Elevation / Skew)
-- Geostationary satellite pointing compass
-- Compass North and South markers plus satellite position.
+- Geostationary satellite pointing compass (Cyan dot)
+- Compass North red arrow marker
 - Compass South reference marker
 - Rover Mode (always-on display)
 - Compass enable/disable (battery saving)
