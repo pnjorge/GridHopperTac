@@ -41,6 +41,11 @@ Click each option to cycle/increment value. For Longitude a long press will jump
 F5VMJ
 
 
+## Download
+
+[Download GridHopperTac v0.3 Beta APK] https://drive.google.com/file/d/13mijxRoSovaxq0RwQ2p4ihYJZZb9fDDi/view?usp=drive_link
+
+
 ## Demo Video
 
 [![GridHopperTac Demo](watch_screenshot.png)](https://youtu.be/9xifKO7HxIM)
