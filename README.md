@@ -36,7 +36,7 @@ It provides the most essential features of the original GridHopper.net web app i
 Currently running on a Samsung Galaxy Watch 4 Classic w/display 46mm, 450x450. Other versions will work depending on size.
 Install by sideloading the APK to a Wear OS watch using Android Studio, ADB, or other compatible APK installation tools.
 
-Quick Start: Click top of screen [GridHopperTac] to enter Options page and then scroll down and click [BACK] to return.
+Quick Start: Click top of screen [GridHopperTac] to enter Options page. Scroll down and click [BACK] to return.
 Click each option to cycle/increment value. For Longitude a long press will jump by 10 degrees.
 
 73
