@@ -4,14 +4,6 @@
 Wearable geo satellite roving companion for portable operators
 
 
-<h2>Screenshots</h2>
-
-<p align="center">
-  <img src="colors_matrix.jpg" width="800">
-</p>
-
-
-
 ## Features
 
 - Live Maidenhead locator display (6-character)
@@ -55,6 +47,16 @@ F5VMJ
 [![GridHopperTac Demo](watch_screenshot.png)](https://youtu.be/9xifKO7HxIM)
 
 Click the image above to watch the demo video.
+
+
+
+
+<h2>Screenshots</h2>
+
+<p align="center">
+  <img src="colors_matrix.jpg" width="800">
+</p>
+
 
 
 
