@@ -54,7 +54,7 @@ Click the image above to watch the demo video.
 <h2>Screenshots</h2>
 
 <p align="center">
-  <img src="colors_matrix.jpg" width="800">
+  <img src="colors_matrix.jpg" width="900">
 </p>
 
 
