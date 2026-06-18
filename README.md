@@ -8,6 +8,7 @@ Wearable geo satellite roving companion for portable operators
 
 - Live Maidenhead locator display (6-character)
 - Grid crossing (Border-X) alerts
+- Cooldown timer (avoids alarm toggling when weaving along a grid line)
 - Audible/Vibration alerts (Selectable sounds)
 - Alert repetitions
 - Maidenhead border prediction (distance and direction)
@@ -15,7 +16,8 @@ Wearable geo satellite roving companion for portable operators
 - Geostationary satellite pointing data (Azimuth / Elevation / Skew)
 - Geostationary satellite pointing compass (Cyan dot)
 - Compass North (red arrow) and South (reference) markers
-- Rover Mode (always-on display)
+- Shows True North (corrected for magnetic declination)
+- Rover Mode (always-on)
 - Compass enable/disable (battery saving)
 - Display colour variants (Contrast, CRT, Night, Avionic)
 - Field-friendly display optimised for portable operation
@@ -33,8 +35,13 @@ Wearable geo satellite roving companion for portable operators
 GridHopperTac is a lightweight standalone version of GridHopper.net, but for Wear OS devices.
 It provides the most essential features of the original GridHopper.net web app in a very lightweight package. 
 
-Currently running on a Samsung Galaxy Watch 4 Classic w/display 46mm, 450x450. Other versions will work depending on size.
+Field tested on a Samsung Galaxy Watch 4 Classic w/display 46mm, 450x450. 
+Running well on a Watch 5 Pro also. Other similar sized displays should work also.
+
 Install by sideloading the APK to a Wear OS watch using Android Studio, ADB, or other compatible APK installation tools.
+Try Malcolm's 'Wear Installer 2' to sideload the APK. He details the connection and pairing procedure. 
+Can be very slow to load (5 mins), but on reaching 100% 'Error:' message should show empty. 
+
 
 Quick Start: Click top of screen [GridHopperTac] to enter Options page. Scroll down and click [BACK] to return.
 Click each option to cycle/increment value. For orbital position, a long press will jump by 10 degrees to save time.
@@ -43,10 +50,11 @@ Click each option to cycle/increment value. For orbital position, a long press w
 F5VMJ
 
 
+
 ## Download
 
-[Download GridHopperTac v0.3 Beta APK] 
-https://drive.google.com/file/d/13mijxRoSovaxq0RwQ2p4ihYJZZb9fDDi/view?usp=drive_link
+[Download GridHopperTac v0.4 Beta APK] 
+https://drive.google.com/file/d/1dFEmCd-Thf4BTnDoHJKjd2T5z95uTEd1/view?usp=sharing
 
 
 ## Demo Video
