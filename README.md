@@ -1,5 +1,5 @@
 
-## GridHopperTac v0.3 Beta
+## GridHopperTac v0.4 Beta
 
 Wearable geo satellite roving companion for portable operators
 
