@@ -25,7 +25,9 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - Field-friendly display optimised for portable operation
 - UTC and Local time display
 - Real-time GPS positioning
-- Autonomous operation (no internet access required)
+- Autonomous operation, with no internet access required
+- Independant operation, without the need of a cellphone 
+
 
 ## Status
 
