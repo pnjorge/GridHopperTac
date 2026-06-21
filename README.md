@@ -1,7 +1,8 @@
 
 ## GridHopperTac v0.4 Beta
 
-Wearable geo satellite roving companion for portable operators
+A wearable geo satellite roving companion for portable operators.
+GridHopperTac runs completely autonomously and independently on a smart watch. It is not linked to or indeed need a cellphone to function.
 
 
 ## Features
