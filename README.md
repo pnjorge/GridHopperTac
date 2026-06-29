@@ -65,10 +65,10 @@ https://drive.google.com/file/d/1EgDm9JmE50azggaM8iE8UEHcqxSTyF9g/view?usp=shari
 
 ## What's New
 
-- New Display Modes:
+- New Display Modes for battery saving and discretion:
   - System
   - Always-On
-  - Ghost (automatic dimming after inactivity)
+  - Ghost (auto dimming)
 
 - Improved True-North compass smoothing.
 - Magnetic declination shown in About section.
