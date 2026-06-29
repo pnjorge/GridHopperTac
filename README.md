@@ -48,7 +48,7 @@ Try Malcolm's 'Wear Installer 2' to sideload the APK. He details the connection 
 Can be very slow to load (5 mins), but on reaching 100% 'Error:' message should show empty. 
 
 
-Quick Start: Click top of screen [GridHopperTac] to enter Options page. Scroll down and click [BACK] to return.
+Quick Start: Click top of screen [GridHopperTac] to enter Options page. Scroll down and click [eXit] to return.
 Click each option to cycle/increment value. For orbital position, a long press will jump by 10 degrees to save time.
 
 73
