@@ -66,9 +66,9 @@ https://drive.google.com/file/d/1EgDm9JmE50azggaM8iE8UEHcqxSTyF9g/view?usp=shari
 ## What's New
 
 - New Display Modes:
-  1 System
-  2 Always-On
-  3 Ghost (automatic dimming after inactivity)
+  - System
+  - Always-On
+  - Ghost (automatic dimming after inactivity)
 
 - Improved True-North compass smoothing.
 - Magnetic declination shown in About section.
