@@ -1,5 +1,5 @@
 
-## GridHopperTac v0.4 Beta
+## GridHopperTac
 
 A wearable geo satellite roving companion for portable operators.
 
@@ -22,6 +22,7 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - Rover Mode (always-on)
 - Compass enable/disable (battery saving)
 - Display colour variants (Contrast, CRT, Night, Avionic)
+- Display modes: default System, Always On and auto-dim Ghost
 - Field-friendly display optimised for portable operation
 - UTC and Local time display
 - Real-time GPS positioning
@@ -57,8 +58,8 @@ F5VMJ
 
 ## Download
 
-[Download GridHopperTac v0.4 Beta APK] 
-https://drive.google.com/file/d/1dFEmCd-Thf4BTnDoHJKjd2T5z95uTEd1/view?usp=sharing
+[Download GridHopperTac v0.5 Beta APK] 
+https://drive.google.com/file/d/1EgDm9JmE50azggaM8iE8UEHcqxSTyF9g/view?usp=sharing
 
 
 ## Demo Video
