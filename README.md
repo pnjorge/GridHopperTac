@@ -63,6 +63,20 @@ F5VMJ
 https://drive.google.com/file/d/1EgDm9JmE50azggaM8iE8UEHcqxSTyF9g/view?usp=sharing
 
 
+## What's New
+
+• New Display Modes:
+  - System
+  - Always-On
+  - Ghost (automatic dimming after inactivity)
+
+• Improved True-N compass smoothing.
+• Magnetic declination shown in About section.
+• General performance improvements.
+
+
+
+
 ## Demo Video
 
 [![GridHopperTac Demo](watch_screenshot.png)](https://youtu.be/9xifKO7HxIM)
