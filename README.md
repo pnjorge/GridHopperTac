@@ -92,6 +92,9 @@ Click the image above to watch the demo video.
   <img src="colors_matrix.jpg" width="900">
 </p>
 
+<p align="center">
+  <img src="MGRS.jpg" width="900">
+</p>
 
 <p align="center">
   <img src="3diptique.jpg" width="900">
