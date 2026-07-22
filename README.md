@@ -24,6 +24,7 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - Display colour variants (Contrast, CRT, Night, Avionic)
 - Display modes: default System, Always On and auto-dim Ghost
 - Field-friendly display optimised for portable operation
+- Location reference include Plus Codes and Military Grid Reference System.
 - UTC and Local time display
 - Real-time GPS positioning
 - Autonomous operation, with no internet access required
@@ -50,6 +51,7 @@ Can be very slow to load (5 mins), but on reaching 100% 'Error:' message should 
 
 Quick Start: Click top of screen [GridHopperTac] to enter Options page. Scroll down and click [eXit] to return.
 Click each option to cycle/increment value. For orbital position, a long press will jump by 10 degrees to save time.
+To see alternative grid location reference systems, long press main screen.
 
 73
 F5VMJ
@@ -58,9 +60,9 @@ F5VMJ
 
 ## Download
 
-[Download GridHopperTac v0.5 Beta APK] 
+[Download GridHopperTac v0.6 APK] 
 
-https://drive.google.com/file/d/1EgDm9JmE50azggaM8iE8UEHcqxSTyF9g/view?usp=sharing
+https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=sharing
 
 
 ## What's New
@@ -73,6 +75,9 @@ https://drive.google.com/file/d/1EgDm9JmE50azggaM8iE8UEHcqxSTyF9g/view?usp=shari
 - Improved True-North compass smoothing.
 - Magnetic declination shown in About section.
 - General performance improvements.
+
+- Added page (long-press) to view other location reference systems: 
+  Lat/Lon in DMS, Plus Codes (Open Location Code) and Military Grid Reference System (MGRS).
 
 
 
