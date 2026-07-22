@@ -93,12 +93,13 @@ Click the image above to watch the demo video.
 </p>
 
 <p align="center">
-  <img src="MGRS.jpg" width="900">
+  <img src="3diptique.jpg" width="900">
 </p>
 
 <p align="center">
-  <img src="3diptique.jpg" width="900">
+  <img src="MGRS.jpg" width="900">
 </p>
+
 
 
 
