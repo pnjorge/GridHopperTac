@@ -6,6 +6,7 @@ A wearable geo satellite roving companion for portable operators.
 GridHopperTac runs completely autonomously and independently on a smart watch. It is not linked to or indeed need a cellphone to function.
 
 
+
 ## Features
 
 - Live Maidenhead locator display (6-character)
@@ -56,6 +57,7 @@ To see alternative grid location reference systems, long press main screen.
 73
 F5VMJ
 
+**Also available:** **GridHopper**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools for portable, mobile, and roving operation.
 
 
 ## Download
@@ -78,10 +80,6 @@ https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=shari
 
 - Added page (long-press) to view other location reference systems: 
   Lat/Lon in DMS, Plus Codes (Open Location Code) and Military Grid Reference System (MGRS).
-
-
-## Also available:
-GridHopper, companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems and many additional tools for portable and mobile roving operation.
 
 
 ## Demo Video
