@@ -80,6 +80,8 @@ https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=shari
   Lat/Lon in DMS, Plus Codes (Open Location Code) and Military Grid Reference System (MGRS).
 
 
+## Also available:
+GridHopper, companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems and many additional tools for portable and mobile roving operation.
 
 
 ## Demo Video
