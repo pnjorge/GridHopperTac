@@ -57,7 +57,7 @@ To see alternative grid location reference systems, long press main screen.
 73
 F5VMJ
 
-**Also available:** **[GridHopper](https://gridhopper.net)**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools for portable, mobile, and roving operation.
+**Also available:** **[GridHopper](https://gridhopper.net)**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools. Handy for portable, mobile, and roving operations with iPhone or Android.
 
 
 ## Download
