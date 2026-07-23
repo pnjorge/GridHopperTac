@@ -29,7 +29,7 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - UTC and Local time display
 - Real-time GPS positioning
 - Autonomous operation, with no internet access required
-- Independant operation, without the need of a cellphone 
+- Independent operation, without the need of a cellphone 
 
 
 ## Status
@@ -57,7 +57,7 @@ To see alternative grid location reference systems, long press main screen.
 73
 F5VMJ
 
-**Also available:** **GridHopper**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools for portable, mobile, and roving operation.
+**Also available:** **[GridHopper](https://gridhopper.net)**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools for portable, mobile, and roving operation.
 
 
 ## Download
