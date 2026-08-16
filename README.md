@@ -57,6 +57,10 @@ To see alternative grid location reference systems, long press main screen.
 73
 F5VMJ
 
+
+Disclaimer: GridHopperTac is provided for situational awareness only. It is not a certified navigation aid and must not be relied upon for safety-critical navigation.
+
+
 **Also available:** **[GridHopper](https://gridhopper.net)**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools. Handy for portable, mobile, and roving operations with iPhone or Android.
 
 
