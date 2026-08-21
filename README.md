@@ -75,10 +75,12 @@ Disclaimer: GridHopperTac is provided for situational awareness only. It is not 
 
 Latest release.
 [Download GridHopperTac v0.6 APK] 
+<br>
 https://drive.google.com/file/d/1h0z4xOZn6E_kUbcfKap018pyWr3BUPrw/view?usp=sharing
 
 
 [Download GridHopperTac v0.6 APK] 
+<br>
 https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=sharing
 
 
@@ -87,6 +89,7 @@ https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=shari
 Version 0.7b
 - Big update:
   New offline map page available.
+  <br>
   World purpose built gridline vector chart format.
   Zoom in/out with rotating bezel also available..
 
