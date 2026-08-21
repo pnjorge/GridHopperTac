@@ -20,7 +20,6 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - Geostationary satellite pointing compass (Cyan dot).
 - Compass North (red arrow) and South (reference) markers.
 - Shows True North (corrected for magnetic declination).
-- Rover Mode (always-on).
 - Display colour variants (High Contrast, CRT, Night, Avionic).
 - Display modes: default System, Always On and auto-dim Ghost.
 - Field-friendly display optimised for portable operation.
@@ -31,7 +30,7 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - Rotating-bezel zoom on compatible watches.
 <!-- spacer -->
 - Autonomous operation, with no internet access required.
-- Independent operation, without the need of a cellphone .
+- Fully independent, without the need of a cellphone .
 - Field-focused and KISS.
 
 <div><br></div>
@@ -39,8 +38,8 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 ## Status
 
 - New Version 7 beta.
-- With Maidenhead grid map.
-- Purpose-built lightweight world vector chart format.
+- With Maidenhead grid world map.
+- Purpose-built lightweight vector chart format.
 
 
 
@@ -49,7 +48,7 @@ GridHopperTac is a lightweight standalone version of GridHopper.net, but for Wea
 It provides the most essential features of the original GridHopper.net web app in a very lightweight package. 
 
 Field tested on a Samsung Galaxy Watch 4 Classic w/display 46mm, 450x450. 
-Running well on a Watch 5 Pro and Watch 6 Classic also. Other WearOS watches with similarly sized displays should work also.
+Running well on a Watch 5 Pro and Watch 6 Classic also. Other WearOS watches with similarly sized displays will work also.
 
 Install by sideloading the APK to a Wear OS watch using Android Studio, ADB, or other compatible APK installation tools.
 Try Malcolm's 'Wear Installer 2' to sideload the APK. He details the connection and pairing procedure. 
@@ -71,7 +70,7 @@ F5VMJ
 Disclaimer: GridHopperTac is provided for situational awareness only. It is not a certified navigation aid and must not be relied upon for safety-critical navigation.
 
 
-**Also available:** **[GridHopper](https://gridhopper.net)**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools. Handy for portable, mobile, and roving operations with iPhone or Android.
+**Also available:** **[GridHopper](https://gridhopper.net)**, the companion web application. Accessible from any modern web browser, it provides advanced mapping, location reference systems, and many additional tools. Handy for portable, mobile, and roving operations. Any iPhone, Android, PC, Mac, Linux.
 
 
 ## Download
