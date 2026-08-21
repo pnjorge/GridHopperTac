@@ -29,12 +29,12 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - Completely offline gridline map page.
 - Purpose-built lightweight world vector map format.
 - Rotating-bezel zoom on compatible watches.
-<br>
+<!-- spacer -->
 - Autonomous operation, with no internet access required.
 - Independent operation, without the need of a cellphone .
 - Field-focused and KISS.
 
-<br>
+<div><br></div>
 
 ## Status
 
@@ -88,18 +88,16 @@ https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=shari
 
 
 ## What's New
-
+  
 Version 0.7b
 - Big update:
-  New offline map page available.
-  <br>
-  World purpose built gridline vector chart format.
-  Zoom in/out with rotating bezel also available..
+  - New offline world map page available.
+  - Purpose-built gridline vector chart format.
+  - Zoom in/out with rotating bezel if equipped.
 
 - Miles and Nautical Miles added.
 - Latitude/Longitude DMS and DDS added.
-  
-  
+
 
 Version 0.6
 - New Display Modes for battery saving and discretion:
@@ -135,11 +133,6 @@ Click the image above to watch the demo video.
 <p align="center">
   <img src="3diptique.jpg" width="900">
 </p>
-
-<p align="center">
-  <img src="MGRS.jpg" width="900">
-</p>
-
 
 
 
