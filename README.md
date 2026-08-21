@@ -75,6 +75,7 @@ Disclaimer: GridHopperTac is provided for situational awareness only. It is not 
 
 Latest release.
 [Download GridHopperTac v0.6 APK] 
+https://drive.google.com/file/d/1h0z4xOZn6E_kUbcfKap018pyWr3BUPrw/view?usp=sharing
 
 
 [Download GridHopperTac v0.6 APK] 
