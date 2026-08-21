@@ -95,7 +95,7 @@ Version 0.7b
   - Zoom in/out with rotating bezel if equipped.
 
 - Miles and Nautical Miles added.
-- Latitude/Longitude DMS and DDS added.
+- Latitude/Longitude DMS and DDM added.
 
 
 Version 0.6
