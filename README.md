@@ -21,21 +21,23 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 - Compass North (red arrow) and South (reference) markers
 - Shows True North (corrected for magnetic declination)
 - Rover Mode (always-on)
-- Compass enable/disable (battery saving)
 - Display colour variants (Contrast, CRT, Night, Avionic)
 - Display modes: default System, Always On and auto-dim Ghost
 - Field-friendly display optimised for portable operation
-- Location reference include Plus Codes and Military Grid Reference System.
-- UTC and Local time display
+- Location reference include DMS, DDM, Plus Codes and Military Grid Reference System.
 - Real-time GPS positioning
+- Completely offline gridline map page.
+- Purpose-built lightweight world vector map format.
+- Rotating-bezel zoom on compatible watches.
+  
 - Autonomous operation, with no internet access required
 - Independent operation, without the need of a cellphone 
 
 
 ## Status
 
-- New Version 7beta with Maidenhead grid map.
-- Released 22/08/26 for full field testing.
+- New Version 7beta (w/ Maidenhead grid map).
+- Beta released 22/08/26 for full field testing.
 
 
 
@@ -48,18 +50,19 @@ Running well on a Watch 5 Pro and Watch 6 Classic also. Other WearOS watches wit
 
 Install by sideloading the APK to a Wear OS watch using Android Studio, ADB, or other compatible APK installation tools.
 Try Malcolm's 'Wear Installer 2' to sideload the APK. He details the connection and pairing procedure. 
-Can be very slow to load (5 mins), but on reaching 100% 'Error:' message should show empty. 
+Can be very slow to load (5 mins) but loads without incident.
 
 
 Quick Start: 
-To cycle through pages: MAIN > MAP > LOCATION SYSTEMS, long press screen.
-To Zoom in/out on MAP, tap upper/lower half of map screen, or use rotating bezel if available.
-Click top of MAIN screen on [GridHopperTac] to enter OPTIONS page. Scroll down and click [eXit] at end to return.
+To cycle through pages: MAIN > MAP > LOCATION SYSTEMS, use long press on screen.
+To Zoom in/out on MAP, tap lower/upper half of map screen, or use rotating bezel if available.
+Click top of MAIN screen on [GridHopperTac], to enter OPTIONS page. Scroll down and click [eXit] to return.
 Tap each option to cycle/increment value. For orbital position, a long press will jump by 10 degrees to save time.
 
 
 73
 F5VMJ
+
 
 
 Disclaimer: GridHopperTac is provided for situational awareness only. It is not a certified navigation aid and must not be relied upon for safety-critical navigation.
