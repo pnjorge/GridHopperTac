@@ -115,7 +115,7 @@ Version 0.6
 
 ## Demo Video
 
-[![GridHopperTac Demo](watch_screenshot.png)](https://youtu.be/Co3sJ8NhXWE)
+
 
 Click the image above to watch the demo video.
 
