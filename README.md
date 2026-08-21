@@ -9,30 +9,32 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 
 ## Features
 
-- Live Maidenhead locator display (6-character)
-- Grid crossing (Border-X) alerts
-- Cooldown timer (avoids alarm toggling when weaving along a grid line)
-- Audible/Vibration alerts (Selectable sounds)
-- Alert repetitions
-- Maidenhead border prediction (distance and direction)
-- Configurable geo satellite orbital position
-- Geostationary satellite pointing data (Azimuth / Elevation / Skew)
-- Geostationary satellite pointing compass (Cyan dot)
-- Compass North (red arrow) and South (reference) markers
-- Shows True North (corrected for magnetic declination)
-- Rover Mode (always-on)
-- Display colour variants (Contrast, CRT, Night, Avionic)
-- Display modes: default System, Always On and auto-dim Ghost
-- Field-friendly display optimised for portable operation
+- Live Maidenhead locator display (6-character).
+- Grid crossing (Border-X) alerts.
+- Cooldown timer (avoids alarm toggling when weaving along a grid line).
+- Audible/Vibration alerts (Selectable sounds), repetitions.
+- Maidenhead border prediction (distance and direction).
+- Kilometers, Miles and Nautical Miles.
+- Configurable geo satellite orbital position.
+- Geostationary satellite pointing data (Azimuth / Elevation / Skew).
+- Geostationary satellite pointing compass (Cyan dot).
+- Compass North (red arrow) and South (reference) markers.
+- Shows True North (corrected for magnetic declination).
+- Rover Mode (always-on).
+- Display colour variants (High Contrast, CRT, Night, Avionic).
+- Display modes: default System, Always On and auto-dim Ghost.
+- Field-friendly display optimised for portable operation.
 - Location reference include DMS, DDM, Plus Codes and Military Grid Reference System.
-- Real-time GPS positioning
+- Real-time GPS positioning.
 - Completely offline gridline map page.
 - Purpose-built lightweight world vector map format.
 - Rotating-bezel zoom on compatible watches.
-  
-- Autonomous operation, with no internet access required
-- Independent operation, without the need of a cellphone 
+<br>
+- Autonomous operation, with no internet access required.
+- Independent operation, without the need of a cellphone .
+- Field-focused and KISS.
 
+<br>
 
 ## Status
 
