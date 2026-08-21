@@ -113,9 +113,11 @@ Version 0.6
   Lat/Lon in DMS, Plus Codes (Open Location Code) and Military Grid Reference System (MGRS).
 
 
+
+
 ## Demo Video
 
-[![GridHopperTac Demo](watch_screenshot.png)](https://youtu.be/Co3sJ8NhXWE)
+[![GridHopperTac v0.7 Demo](https://img.youtube.com/vi/Co3sJ8NhXWE/maxresdefault.jpg)](https://youtu.be/Co3sJ8NhXWE)
 
 Click the image above to watch the demo video.
 
