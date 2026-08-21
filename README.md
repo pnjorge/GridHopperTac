@@ -34,8 +34,9 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 
 ## Status
 
-- Beta testing
-- Preliminary release for field testing by amateur radio operators
+- New Version 7beta with Maidenhead grid map.
+- Released 22/08/26 for full field testing.
+
 
 
 ## Notes
@@ -43,16 +44,19 @@ GridHopperTac is a lightweight standalone version of GridHopper.net, but for Wea
 It provides the most essential features of the original GridHopper.net web app in a very lightweight package. 
 
 Field tested on a Samsung Galaxy Watch 4 Classic w/display 46mm, 450x450. 
-Running well on a Watch 5 Pro also. Other similar sized displays should work also.
+Running well on a Watch 5 Pro and Watch 6 Classic also. Other WearOS watches with similarly sized displays should work also.
 
 Install by sideloading the APK to a Wear OS watch using Android Studio, ADB, or other compatible APK installation tools.
 Try Malcolm's 'Wear Installer 2' to sideload the APK. He details the connection and pairing procedure. 
 Can be very slow to load (5 mins), but on reaching 100% 'Error:' message should show empty. 
 
 
-Quick Start: Click top of screen [GridHopperTac] to enter Options page. Scroll down and click [eXit] to return.
-Click each option to cycle/increment value. For orbital position, a long press will jump by 10 degrees to save time.
-To see alternative grid location reference systems, long press main screen.
+Quick Start: 
+To cycle through pages: MAIN > MAP > LOCATION SYSTEMS, long press screen.
+To Zoom in/out on MAP, tap upper/lower half of map screen, or use rotating bezel if available.
+Click top of MAIN screen on [GridHopperTac] to enter OPTIONS page. Scroll down and click [eXit] at end to return.
+Tap each option to cycle/increment value. For orbital position, a long press will jump by 10 degrees to save time.
+
 
 73
 F5VMJ
@@ -66,13 +70,28 @@ Disclaimer: GridHopperTac is provided for situational awareness only. It is not 
 
 ## Download
 
+Latest release.
 [Download GridHopperTac v0.6 APK] 
 
+
+[Download GridHopperTac v0.6 APK] 
 https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=sharing
 
 
 ## What's New
 
+Version 0.7b
+- Big update:
+  New offline map page available.
+  World purpose built gridline vector chart format.
+  Zoom in/out with rotating bezel also available..
+
+- Miles and Nautical Miles added.
+- Latitude/Longitude DMS and DDS added.
+  
+  
+
+Version 0.6
 - New Display Modes for battery saving and discretion:
   - System
   - Always-On
@@ -82,7 +101,7 @@ https://drive.google.com/file/d/1pm5zu0N4VlR4luYy550q6T3Lf_3uVjw5/view?usp=shari
 - Magnetic declination shown in About section.
 - General performance improvements.
 
-- Added page (long-press) to view other location reference systems: 
+- Added page to view other location reference systems: 
   Lat/Lon in DMS, Plus Codes (Open Location Code) and Military Grid Reference System (MGRS).
 
 
