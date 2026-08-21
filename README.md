@@ -38,7 +38,7 @@ GridHopperTac runs completely autonomously and independently on a smart watch. I
 
 ## Status
 
-- New Version 7beta.
+- New Version 7 beta.
 - With Maidenhead grid map.
 - Purpose-built lightweight world vector chart format.
 
